@@ -171,7 +171,7 @@ axios.get('http://localhost:8080/api/employees');
 ### Frontend Setup
 1. Clone the frontend repository:
    ```bash
-   git clone https://github.com/Saad1929/Employee-Management-Frontend.git](https://github.com/ParadoxAnubhav20/employee-management-system
+   git clone https://github.com/ParadoxAnubhav20/employee-management-system
    cd ems-frontend
    ```
 
