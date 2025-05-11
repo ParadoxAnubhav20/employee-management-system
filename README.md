@@ -1,4 +1,4 @@
-# Employee Management System Fullstack - Spring Boot Java React JavaScript MySQL 
+# Employee Management System Fullstack - Spring Boot, Java, React, JavaScript, MySQL 
 
 ## Contents
 1. [Brief Summary](#summary)
