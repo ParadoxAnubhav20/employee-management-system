@@ -1,0 +1,41 @@
+# === Java / Spring Boot ===
+/target/
+*.log
+*.class
+*.jar
+*.war
+*.iml
+*.h2.db
+*.db
+
+# === Maven ===
+/.mvn/
+!/.mvn/wrapper/maven-wrapper.jar
+
+# === Gradle ===
+/.gradle/
+build/
+!gradle/wrapper/gradle-wrapper.jar
+dependency-reduced-pom.xml
+out/
+
+# === IntelliJ IDEA ===
+.idea/
+*.iws
+*.ipr
+*.iml
+
+# === Eclipse ===
+.project
+.classpath
+.csettings
+.settings/
+
+# === VS Code ===
+.vscode/
+
+# === Environment / Secret files ===
+src/main/resources/application.properties
+src/main/resources/application-*.properties
+.env
+*.env
